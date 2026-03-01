@@ -1,14 +1,12 @@
-# Hi, I'm Dhiraj Thakre 👋
+# Hi, I'm Dhiraj Thakre 
 
 ### Data Analyst | Data Science Professional | IIT Roorkee Certified
 
 ---
 
-🎯 **About Me**
+ **About Me**
 
-I'm a Data Analyst and Data Science professional passionate about turning raw data into meaningful business insights. Certified in Data Science & AI from **iHub DivyaSampark, IIT Roorkee**, with 1 year of hands-on internship experience building machine learning models and delivering data-driven solutions.
-
-My background in BSc Agriculture gives me a unique edge . I bring domain knowledge to agri-tech, supply chain, and sustainability analytics that most data professionals don't have.
+I'm a Data Analyst and Data Science professional passionate about turning raw data into meaningful business insights. Certified in Data Science & AI from **iHub DivyaSampark, IIT Roorkee**, with 1 year of hands-on internship experience building machine learning models and delivering data-driven solutions across domains including retail, finance, and e-commerce.
 
 - 📍 Based in **Nagpur, India**
 - 💼 Open to **Data Analyst** and **Data Science** roles
@@ -47,11 +45,23 @@ My background in BSc Agriculture gives me a unique edge . I bring domain knowled
 
 ### 🚀 Featured Projects
 
+#### 📊 Data Analysis & EDA
 | Project | Description | Tools | Highlights |
 |--------|-------------|-------|------------|
-| [💳 Credit Card Fraud Detection](https://github.com/dhirajthakre30/Credit-Card-Fraud-Detection) | Detecting fraudulent transactions on imbalanced datasets | XGBoost, SMOTE, Scikit-learn | F1: 0.92 · AUC-ROC: 0.95 |
-| [✈️ Flight Price Prediction](https://github.com/dhirajthakre30/Flight-price-Prediction) | Predicting flight prices using historical booking data | Python, Regression, EDA | Feature engineering on routes & timing |
-| [🛒 Walmart Sales Forecasting](https://github.com/dhirajthakre30/Walmart-Sales-Forecasting) | Forecasting 12-week weekly sales per store | ARIMA, Facebook Prophet | ~15% accuracy improvement over baseline |
+| [🛍️ Retail Sales & Customer Analytics](https://github.com/dhirajthakre30/Retail-Sales-Customer-Analytics) | Retail business performance dashboard — sales trends, customer behavior & product insights | Python, Pandas, Matplotlib, Seaborn | End-to-end business analytics |
+| [📊 Adventure Works Power BI Dashboard](https://github.com/dhirajthakre30/Adventure-works-Power-BI-Project) | Interactive sales dashboard built on Adventure Works dataset | Power BI | Multi-page dashboard · KPIs & slicers |
+| [✈️ Flight Price Analysis](https://github.com/dhirajthakre30/Flight-price-Prediction) | EDA on flight pricing patterns across routes, airlines & booking windows | Python, Pandas, Seaborn | Key factors: stops, duration, timing |
+| [🛒 Walmart Sales Forecasting](https://github.com/dhirajthakre30/Walmart-Sales-Forecasting) | EDA + time-series forecasting on weekly retail sales across 45 stores | ARIMA, Facebook Prophet | ~15% accuracy gain over baseline |
+
+#### 🤖 Machine Learning
+| Project | Description | Tools | Highlights |
+|--------|-------------|-------|------------|
+| [💳 Credit Card Fraud Detection](https://github.com/dhirajthakre30/Credit-Card-Fraud-Detection) | Detecting fraudulent transactions on highly imbalanced datasets | XGBoost, SMOTE, Scikit-learn | F1: 0.92 · AUC-ROC: 0.95 |
+| [📉 Customer Churn Prediction](https://github.com/dhirajthakre30/Customer-Churn-Prediction) | Identifying churn-prone telecom customers before they leave | Logistic Regression, Random Forest | ~85% accuracy · ~12% churn reduction |
+| [🎬 Netflix Recommendation Engine](https://github.com/dhirajthakre30/Netflix-Recommendation-Engine) | Content-based recommendation system for movies and shows | Python, Scikit-learn, NLP | Similarity-based filtering |
+| [🦠 Covid-19 Time Series Prediction](https://github.com/dhirajthakre30/Covid-19-Time-series-Prediction) | Forecasting Covid-19 case trends using time-series models | ARIMA, Prophet, Python | Trend & wave pattern analysis |
+| [💰 Census Income Prediction](https://github.com/dhirajthakre30/Census-Income-Project) | Predicting whether individual income exceeds $50K using census data | ML Classification, EDA | Demographic feature analysis |
+| [🚢 Titanic Survival Prediction](https://github.com/dhirajthakre30/Titanic-Survival-prediction) | Classic ML classification on Titanic passenger survival data | Logistic Regression, Random Forest | Feature engineering on demographics |
 
 ---
 
@@ -76,4 +86,4 @@ iHub DivyaSampark, **IIT Roorkee** in association with Intellipaat · 2024–202
 
 ---
 
-*"Data is the new soil — and I know how to grow something from it."* 🌱
+*"Without data, you're just another person with an opinion."* 📊
