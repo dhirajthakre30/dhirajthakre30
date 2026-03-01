@@ -8,7 +8,7 @@
 
 I'm a Data Analyst and Data Science professional passionate about turning raw data into meaningful business insights. Certified in Data Science & AI from **iHub DivyaSampark, IIT Roorkee**, with 1 year of hands-on internship experience building machine learning models and delivering data-driven solutions.
 
-My background in **BSc Agriculture** gives me a unique edge — I bring domain knowledge to agri-tech, supply chain, and sustainability analytics that most data professionals don't have.
+My background in BSc Agriculture gives me a unique edge . I bring domain knowledge to agri-tech, supply chain, and sustainability analytics that most data professionals don't have.
 
 - 📍 Based in **Nagpur, India**
 - 💼 Open to **Data Analyst** and **Data Science** roles
