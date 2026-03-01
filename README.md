@@ -72,12 +72,7 @@ iHub DivyaSampark, **IIT Roorkee** in association with Intellipaat · 2024–202
 
 ---
 
-### 📊 GitHub Stats
 
-![Dhiraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhirajthakre30&show_icons=true&theme=teal&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhirajthakre30&layout=compact&theme=teal&hide_border=true)
-
----
 
 ### 🤝 Let's Connect
 
