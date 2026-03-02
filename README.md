@@ -49,7 +49,6 @@ I'm a Data Analyst and Data Science professional passionate about turning raw da
 | Project | Description | Tools | Highlights |
 |--------|-------------|-------|------------|
 | [🛍️ Retail Sales & Customer Analytics](https://github.com/dhirajthakre30/Retail-Sales-Customer-Analytics) | Retail business performance dashboard — sales trends, customer behavior & product insights | Python, Pandas, Matplotlib, Seaborn | End-to-end business analytics |
-| [📊 Adventure Works Power BI Dashboard](https://github.com/dhirajthakre30/Adventure-works-Power-BI-Project) | Interactive sales dashboard built on Adventure Works dataset | Power BI | Multi-page dashboard · KPIs & slicers |
 | [✈️ Flight Price Analysis](https://github.com/dhirajthakre30/Flight-price-Prediction) | EDA on flight pricing patterns across routes, airlines & booking windows | Python, Pandas, Seaborn | Key factors: stops, duration, timing |
 | [🛒 Walmart Sales Forecasting](https://github.com/dhirajthakre30/Walmart-Sales-Forecasting) | EDA + time-series forecasting on weekly retail sales across 45 stores | ARIMA, Facebook Prophet | ~15% accuracy gain over baseline |
 
